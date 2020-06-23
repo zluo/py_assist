@@ -1,0 +1,11 @@
+stardict.csv
+stardict.db
+logs
+py_assist.egg-info
+dist
+build
+.idea
+.eggs
+ecdict.csv
+ecdict.mini.csv
+

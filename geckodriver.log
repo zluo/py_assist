@@ -1,0 +1,541 @@
+1559508804154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oyphnHMEYnxB"
+1559508804741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559508804742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559508804742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559508806781	Marionette	INFO	Listening on port 32785
+1559508807702	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2475, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2475, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559508821641	Marionette	INFO	Stopped listening on port 32785
+1559509838492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.es5GfXfCh7NT"
+1559509839176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559509839176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559509839176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559509841273	Marionette	INFO	Listening on port 42349
+1559509841314	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3683, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559509849207	Marionette	INFO	Stopped listening on port 42349
+1559509994374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h7ivnCpaqpOO"
+1559509994852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559509994852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559509994852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559509996495	Marionette	INFO	Listening on port 43897
+1559509996630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559510001257	Marionette	INFO	Stopped listening on port 43897
+1559704890515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cWsIG6HcNd9s"
+1559704890523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MMPR79thGfBZ"
+1559704890528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5KzXvrgzH42o"
+1559704891197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559704891197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559704891197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559704891202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559704891203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559704891203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559704891218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559704891218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559704891218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559704894357	Marionette	INFO	Listening on port 45873
+1559704894520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559704894548	Marionette	INFO	Listening on port 40791
+1559704894610	Marionette	INFO	Listening on port 38831
+1559704894611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559704894683	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7908, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7908, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559704898570	Marionette	INFO	Stopped listening on port 45873
+[Parent 7909, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7909, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559704900008	Marionette	INFO	Stopped listening on port 38831
+[Parent 7910, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7910, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559704901688	Marionette	INFO	Stopped listening on port 40791
+1559777696091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wXaiOPszfdGe"
+1559777696102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MrupyOmw58xg"
+1559777696580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559777696580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559777696580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559777696581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559777696581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559777696581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559777697158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WvaQOspi3VAG"
+1559777698059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559777698060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559777698060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559777699905	Marionette	INFO	Listening on port 44869
+1559777699956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559777699994	Marionette	INFO	Listening on port 46589
+1559777700124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559777702192	Marionette	INFO	Listening on port 33019
+1559777702201	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12457, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12457, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559777707776	Marionette	INFO	Stopped listening on port 33019
+1559777711412	Marionette	INFO	Stopped listening on port 44869
+[Parent 12263, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12263, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559777723500	Marionette	INFO	Stopped listening on port 46589
+1559780562125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y7gk7IMLTKG8"
+1559780562472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559780562472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559780562472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559780564046	Marionette	INFO	Listening on port 46787
+1559780564136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559780620690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CJMUTBx7uCyQ"
+1559780621104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559780621104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559780621105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559780622945	Marionette	INFO	Listening on port 43233
+1559780623815	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559774912279%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559774912279%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559781999740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zqe5JjGLT6V3"
+1559781999741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6wp2n0qfZg4y"
+1559782000712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559782000712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559782000712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559782000783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559782000783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559782000783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559782003165	Marionette	INFO	Listening on port 44269
+1559782003196	Marionette	INFO	Listening on port 42023
+1559782003215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559782003254	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15949, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559782008820	Marionette	INFO	Stopped listening on port 42023
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559774912279%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559782617799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BxcJ0Q398TDX"
+1559782617805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LkLiEdgVzTQw"
+1559782618470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559782618471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559782618471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559782618604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559782618605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559782618606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559782621306	Marionette	INFO	Listening on port 40971
+1559782621329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559782621526	Marionette	INFO	Listening on port 40621
+1559782621620	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16629, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16629, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559782626519	Marionette	INFO	Stopped listening on port 40621
+1559782705732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dKuk0hVWQddQ"
+1559782705761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KKDnMpOZwCpq"
+1559782706846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559782706849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559782706849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559782707123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559782707125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559782707126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559782709498	Marionette	INFO	Listening on port 36285
+1559782709556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559782709983	Marionette	INFO	Listening on port 37451
+1559782710001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17285, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17285, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559782711986	Marionette	INFO	Stopped listening on port 37451
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+console.error: BroadcastService: 
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559774912279%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559774912279%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 17280, Gecko_IOThread] WARNING: pipe error (128): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17280, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559783181376	Marionette	INFO	Stopped listening on port 36285
+[Parent 15950, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15950, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559783187409	Marionette	INFO	Stopped listening on port 44269
+[Parent 16631, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16631, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559783191106	Marionette	INFO	Stopped listening on port 40971
+[Parent 15309, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15309, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559783192157	Marionette	INFO	Stopped listening on port 43233
+[Parent 14970, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14970, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-xkwMhH/firefox-67.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559783197678	Marionette	INFO	Stopped listening on port 46787
+1560006721033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bm1pwLmRqVsb"
+1560006721706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560006721706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560006721706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560006723375	Marionette	INFO	Listening on port 33157
+1560006723462	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559865839282%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1560044782415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G37NxFHv2EBP"
+1560044782883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560044782884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560044782884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560044784788	Marionette	INFO	Listening on port 35531
+1560044784845	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559865839282%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 6501, Gecko_IOThread] WARNING: pipe error (166): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6501, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560089435188	Marionette	INFO	Stopped listening on port 33157
+[Parent 984, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 984, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560089831233	Marionette	INFO	Stopped listening on port 35531
+1560221705853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pi8PomxLMIWR"
+1560221707552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560221707552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560221707552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560221709712	Marionette	INFO	Listening on port 37031
+1560221709797	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560206791251%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 7728, Gecko_IOThread] WARNING: pipe error (150): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript warning: https://www.amazon.ca/Augason-Farms-Whole-Emergency-Storage/dp/B0096I5DJU/ref=asc_df_B0096I5DJU/?tag=googleshopc0c-20&linkCode=df0&hvadid=292918445409&hvpos=1o1&hvnetw=g&hvrand=5596969062134678086&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000485&hvtargid=pla-307010417716&psc=1, line 48: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560247588255%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 7728, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7728, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-gHMaBx/firefox-67.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560266732630	Marionette	INFO	Stopped listening on port 37031
+1560310140886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UmVYtzlvEn69"
+1560310141522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560310141523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560310141523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560310144686	Marionette	INFO	Listening on port 33989
+1560310144722	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560280104202%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1560709545525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t9qn6L2HFGBP"
+1560709546037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560709546038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560709546038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560709547682	Marionette	INFO	Listening on port 44439
+1560709547753	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+(/usr/lib/firefox/firefox:11100): dconf-WARNING **: 11:55:05.505: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.elastic.co/products/kibana line 28 > scriptElement, line 4: TypeError: $el is null
+JavaScript error: https://cdn.mutinyhq.com/personalize/client/7621a0ec9b573b2a.js, line 8: Error: client not configured
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1560871543146	Marionette	INFO	Stopped listening on port 44439
+1566012568303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R6Fo2qi9y0Pu"
+1566012573170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566012573171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566012573171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566012573171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566012576358	Marionette	INFO	Listening on port 46747
+1566012576457	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000009000%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Child 31663, MediaPlayback #1] WARNING: Decoder=7efe88436600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31663, MediaPlayback #3] WARNING: Decoder=7efe88436600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+JavaScript error: https://www.lyricfind.com/, line 1360: ReferenceError: SyntaxHighlighter is not defined
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f92d6d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f92d6d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f92d6d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f92d6d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f92d6d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f92d6d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f92d6d600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8268979656248631369/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+[Child 31727, MediaPlayback #1] WARNING: Decoder=7f0ba8c6ca00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31727, MediaPlayback #1] WARNING: Decoder=7f0ba8c6ca00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31727, MediaPlayback #4] WARNING: Decoder=7f0ba8c6ca00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31727, MediaPlayback #2] WARNING: Decoder=7f0ba8c6ca00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #9] WARNING: Decoder=7f8f8306d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #10] WARNING: Decoder=7f8f8306d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #12] WARNING: Decoder=7f8f8306d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #10] WARNING: Decoder=7f8f8306d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #10] WARNING: Decoder=7f8f8306d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientHandle::Msg_PClientHandleOpConstructor Route error: message sent to unknown actor ID
+
+[Child 31441, MediaPlayback #9] WARNING: Decoder=7f8f82f52400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #9] WARNING: Decoder=7f8f82f52400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #10] WARNING: Decoder=7f8f82f52400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #12] WARNING: Decoder=7f8f82f52400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f87e96000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f87e96000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f87e96000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f87e96000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f87e96000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #4] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f766ebe00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f927f8e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f927f8e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f927f8e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #4] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #4] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6eceba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f6ec1d200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #4] WARNING: Decoder=7f8f6ec1d200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #4] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #4] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f6ec18a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #2] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #1] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #4] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+[Child 31441, MediaPlayback #3] WARNING: Decoder=7f8f76870800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-qCOyDf/firefox-68.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3307
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1572370561663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z4UMMfFvSUt3"
+1572370562174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572370562174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572370562174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572370562175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572370564268	Marionette	INFO	Listening on port 35603
+1572370564361	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8290, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572370571299	Marionette	INFO	Stopped listening on port 35603
+1573507314864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sgJfxW11uU6x"
+1573507315256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573507315256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573507315256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573507315256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573507317047	Marionette	INFO	Listening on port 36165
+1573507317077	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7817, Gecko_IOThread] WARNING: pipe error (139): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573507625532	Marionette	INFO	Stopped listening on port 36165
+1574454217455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yDN8Njzylj3J"
+1574454217868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574454217869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574454217869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574454217869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574454219688	Marionette	INFO	Listening on port 44969
+1574454219764	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5261, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574455629214	Marionette	INFO	Stopped listening on port 44969
+1582234300837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p3sXmetg1apz"
+1582234302206	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582234302963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582234302963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582234302963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582234302963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582234308885	Marionette	INFO	Listening on port 34309
+1582234308935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582234316334	Marionette	INFO	Stopped listening on port 34309
+1582234343507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tEbsYgwYBdj0"
+1582234351026	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582234351382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582234351382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582234351382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582234351382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582234353555	Marionette	INFO	Listening on port 39405
+1582234353602	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1592274679788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQJs4kT"
+1592274682195	Marionette	INFO	Listening on port 41277
+1592274682203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592274731616	Marionette	INFO	Stopped listening on port 41277
+1592924124421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBAvQlD"
+1592924128409	Marionette	INFO	Listening on port 33063
+1592924128442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592924329292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileee6DiO"
+1592924331641	Marionette	INFO	Listening on port 37315
+1592924331700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592924360371	Marionette	INFO	Stopped listening on port 37315
+1592924361573	Marionette	INFO	Stopped listening on port 33063
+1592924850964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Ihfq6"
+1592924850990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesKc2Dw"
+1592924853797	Marionette	INFO	Listening on port 46293
+1592924853871	Marionette	INFO	Listening on port 32783
+1592924853872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592924853911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592924862417	Marionette	INFO	Stopped listening on port 32783
+1592924882655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQLPq65"
+1592924884919	Marionette	INFO	Listening on port 36847
+1592924884969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592924894119	Marionette	INFO	Stopped listening on port 36847
+1592924902912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMo2JjJ"
+1592924905210	Marionette	INFO	Listening on port 43453
+1592924905231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592924911349	Marionette	INFO	Stopped listening on port 46293
+1592924912184	Marionette	INFO	Stopped listening on port 43453
+1592925020796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewFH5bF"
+1592925020801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ0PmQb"
+1592925023850	Marionette	INFO	Listening on port 33807
+1592925023901	Marionette	INFO	Listening on port 35803
+1592925023910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592925023921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1592925035534	Marionette	INFO	Stopped listening on port 35803
+1592925035878	Marionette	INFO	Stopped listening on port 33807
+1592925141074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew60t3G"
+1592925141090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSIjSRO"
+1592925143882	Marionette	INFO	Listening on port 34093
+1592925143909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592925143964	Marionette	INFO	Listening on port 41335
+1592925144008	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1167:3
+
+1592925153833	Marionette	INFO	Stopped listening on port 34093
+1592925154497	Marionette	INFO	Stopped listening on port 41335

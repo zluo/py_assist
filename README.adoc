@@ -1,0 +1,40 @@
+== py_lab Notes
+
+    python setup.py install
+
+Inside Ipython
+
+    %cd c:/src/py_lab
+    !python setup.py install
+
+=== run test
+
+    python setup.py test
+
+
+=== Run Assistant
+. make a pipeline
+
+    mkfifo my_pipe
+
+. Run assistant_console.py
+    
+    python assistant_console.py
+
+. Inside Assistant Console, run
+
+    > st  // start selenium drive and listen to my_pipe input. 
+
+
+=== Configure vi to send current word to my_pipe
+
+In ~/.vim_runtime/my_configs.vim , add a line
+
+    :nmap \ :!echo '<cWORD>' > ~/pipes/my_pipe<cr><cr> 
+
+=== Configure Dictionary Database(Sqlite)
+. Create a Sqlite db, named stardict.db
+
+. In stardict.py 
+
+    convert_dict('/home/zluo/src/py_lab/ecdict/stardict.db', '/home/zluo/src/py_lab/ecdict/stardict.csv')
